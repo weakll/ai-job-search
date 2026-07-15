@@ -4,13 +4,21 @@
 
 ## Installed portal CLIs (primary for `/scrape`)
 
+A zhaopin-search CLI was generated for this workspace. It can search Zhaopin (????) for Chinese job listings. Use it via:
+
+```bash
+cd .agents/skills/zhaopin-search/cli && bun run src/cli.ts search -q "Java" -l "??" --limit 5 --format table
+```
+
 `/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Shipped country-agnostic CLIs include `linkedin-search` and `freehire-search`; Danish demos and any skill you add with `/add-portal` are included the same way. You do **not** need a matching `site:` line below for those CLIs to run.
 
 The `site:` query templates in this file are the **WebSearch fallback** — for portals without a CLI, company career pages, or when a CLI fails.
 
 ## Search Sites
 
-Primary (your market's job boards - scaffold one with `/add-portal`):
+Primary (your market's job boards):
+
+- **zhaopin.com** - Zhaopin (????), China general recruitment; CLI installed at `.agents/skills/zhaopin-search/`
 - **zhipin.com** - your market's largest general job board
 - **linkedin.com/jobs** - LinkedIn job listings (filter: China / Baotou); also covered by `linkedin-search` CLI
 - **liepin.com** - a niche/industry board for your field (optional)
