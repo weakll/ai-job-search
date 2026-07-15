@@ -8,47 +8,47 @@ framework_version: 1.0.0
 <!-- You can use results from PI, DISC, Myers-Briggs, StrengthsFinder, or a self-assessment -->
 
 ## Overview
-[YOUR_NAME]'s behavioral assessment identifies them as a **[PROFILE_TYPE]** pattern. [1-2 SENTENCE_SUMMARY].
+Zhewei Liu's behavioral assessment identifies them as a **Self-directed Learner + Execution-focused Builder** pattern. Liu combines self-directed learning with practical execution, picking up new technologies and applying them in real projects immediately.
 
 ## Core Behavioral Drives
 
 | Drive | Level | Meaning |
 |-------|-------|---------|
-| [DRIVE_1] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_2] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_3] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_4] | [LEVEL] | [DESCRIPTION] |
+| Learning and Mastery | High | Learns new frameworks through online resources, applies in projects |
+| Execution | High | Delivers on schedule; core member owning 60%+ of backend modules |
+| Quality and Precision | High | 100% API docs, zero-blocking-defect track record |
+| Collaboration | Moderate | Works in small teams, communicates technical decisions |
 
 ## Strongest Behaviors
-- **[BEHAVIOR_1]:** [DESCRIPTION]
-- **[BEHAVIOR_2]:** [DESCRIPTION]
-- **[BEHAVIOR_3]:** [DESCRIPTION]
+- **Self-directed Learning:** Proactively identifies and learns new technologies online, applies in production projects
+- **Systematic Delivery:** Plans, builds, tests, documents thoroughly
+- **Problem Solving:** Diagnoses root causes, uses appropriate technical solutions
 
 ## How You Work Best
-- [ENVIRONMENT_PREFERENCE_1]
-- [ENVIRONMENT_PREFERENCE_2]
-- [ENVIRONMENT_PREFERENCE_3]
+- Teams with clear goals and end-to-end module ownership
+- Environments encouraging new technology adoption
+- Small to medium teams with direct collaboration
 
 ## Growth Areas (frame positively in applications)
-- **[AREA_1]:** [HOW_TO_FRAME_IT_POSITIVELY]
-- **[AREA_2]:** [HOW_TO_FRAME_IT_POSITIVELY]
+- **Limited professional experience:** Building professional skills while transitioning from academic to professional environment
+- **English communication:** Actively developing through technical reading and practice
 
 ## Mapping to Job Posting Language
 
 When a job posting mentions these keywords, it's a **strong behavioral fit**:
-- [KEYWORD_OR_PHRASE_THAT_MATCHES_YOUR_STYLE]
-- [ANOTHER_KEYWORD]
+- self-starter, proactive learner, hands-on, delivery-focused
+- end-to-end ownership, fast learner, detail-oriented
 
 When a job posting mentions these, flag as **potential friction** (not deal-breaker):
-- [KEYWORD_OR_PHRASE_THAT_MIGHT_CLASH]
-- [ANOTHER_KEYWORD]
+- strict hierarchy, micromanaged, repetitive maintenance-only
+- end-to-end ownership, fast learner, detail-oriented
 
 ## Management Style Preferences
-- [WHAT_MANAGEMENT_STYLE_WORKS_FOR_YOU]
+- Clear expectations with autonomy; regular feedback
 - [WHAT_DOESN'T_WORK]
 
 ## Using This in Applications
-- **Cover letters:** [HOW_TO_WEAVE_IN_BEHAVIORAL_STRENGTHS]
-- **CV:** [WHAT_TO_EMPHASIZE]
-- **Interviews:** [WHAT_STAR_EXAMPLES_TO_USE]
-- **Don't overstate:** [WHAT_NOT_TO_CLAIM]
+- **Cover letters:** Mention technologies learned independently and applied in projects
+- **CV:** Project delivery, full lifecycle ownership from design to deployment
+- **Interviews:** E-commerce system delivery and internship projects
+- **Don't overstate:** Senior-level experience beyond entry-level

@@ -16,42 +16,57 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 <!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
+### 1. Online Mall System - Microservice Architecture and Delivery
+**S:** Our 2-person team needed to build a full e-commerce platform within 3 months.
+**T:** I was responsible for 60%+ of backend modules: API design, DB schema, performance optimization.
+**A:** Designed 8+ DB tables, 30+ RESTful APIs with SpringBoot + MyBatis-Plus, Redis caching with Bloom Filter, MinIO for images, SpringCloud Alibaba for service orchestration.
+**R:** Delivered on schedule; Redis reduced DB hot-spot access by ~70%; 100% API docs; zero blocking defects.
+**Use for:** Tell me about a project, Performance optimization, Teamwork
 **S:** [CONTEXT - what was happening, what was the problem]
 **T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
 **A:** [WHAT YOU DID - specific actions, tools, methods]
 **R:** [OUTCOME - measurable results, adoption, impact]
 **Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
+### 2. System Integration Projects - Enterprise Deployment
+**S:** Interned on IT infrastructure projects for gov/enterprise clients with tight deadlines.
+**T:** Quickly learn on-site deployment and contribute to delivery.
+**A:** Learned terminal install, network config, debugging on the job; maintained logs; identified bottlenecks.
+**R:** Contributed to 3 on-schedule projects; workflow improvements boosted efficiency ~15%.
+**Use for:** Learning quickly, Multiple priorities, Process improvement
 **S:** [CONTEXT]
 **T:** [YOUR RESPONSIBILITY]
 **A:** [WHAT YOU DID]
 **R:** [OUTCOME]
 **Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
 
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
+### 3. Order Consistency - Critical Bug Resolution
+**S:** During e-commerce testing, order desync and overselling bugs threatened reliability.
+**T:** Diagnose and fix all order/inventory consistency issues.
+**A:** Root cause: concurrent orders without locking. Implemented transactions + optimistic locking, added lifecycle validation.
+**R:** Fixed 5+ critical bugs; 100% data consistency post-fix.
+**Use for:** Debugging complex issues, Bug fix example, Data quality
 **S:** [CONTEXT]
 **T:** [YOUR RESPONSIBILITY]
 **A:** [WHAT YOU DID]
 **R:** [OUTCOME]
 **Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
 
-<!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
+
 
 ## Common Tough Questions
 
 ### "Why did you leave [previous company]?"
-> [PREPARE YOUR ANSWER - be honest, forward-looking, no negativity about former employer]
+> I am completing my BSc in CS. My internship ended as planned to return for the final academic year. Now seeking a backend dev role to apply skills in production.
 
 ### "You don't have [specific skill/experience]."
-> [PREPARE YOUR ANSWER - acknowledge the gap, bridge to adjacent experience, show willingness to learn]
+> I have a proven record of learning independently - I taught myself SpringCloud and Redis from online resources and used them in production. I will ramp up on this quickly.
 
 ### "Where do you see yourself in 5 years?"
 > [PREPARE YOUR ANSWER - show ambition aligned with the role's growth path]
 
 ### "What's your biggest weakness?"
-> [PREPARE YOUR ANSWER - genuine weakness with concrete mitigation strategy]
+> My professional experience is limited to one internship. I compensate by being a fast, independent learner - I picked up SpringCloud, Redis, MinIO from online resources and applied them in a real project.
 
 ### "Why this company specifically?"
 > Customize per company. Must reference: specific projects, company values, market position, or team structure. Never give a generic answer.

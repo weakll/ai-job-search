@@ -1,10 +1,10 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for Zhewei Liu (刘哲玮)
 
 <!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+<!-- After running /setup, your details will be replaced with your actual information -->
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Zhewei Liu (刘哲玮), helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -16,65 +16,67 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** Zhewei Liu (刘哲玮)
+- **Location:** Baotou, Inner Mongolia, China (willing to relocate for opportunities, open to remote)
+- **Languages:** Chinese (Native), English (Professional working proficiency)
+- **Status:** Student (BSc candidate, graduating June 2027)
+- **LinkedIn headline:** "CS Undergraduate | Java Backend Developer | Spring Boot Microservices"
 
 ### Education
 <!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **BSc in Computer Science and Technology** (2023-2027) - Ordos Institute of Technology (鄂尔多斯应用技术学院)
+  - Key coursework: Data Structures Algorithms, Computer Networks, Operating Systems, Database Principles
 
 ### Professional Experience
 <!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **System Integration Intern** (2025.12 - 2026.02 - 2026.06) - **Inner Mongolia Hengda Haitian Network Technology** (Baotou)
+  - Participated in government/enterprise system integration projects: terminal install, config, debugging; delivered 3 projects
+  - Assisted with server room setup and LAN deployment; helped complete project docs
+  - Supported basic IT operations, troubleshooting system and device issues
+  - Maintained project logs, helped optimize workflows improving delivery efficiency by ~15%
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Java (SpringBoot, MyBatis-Plus, multi-threading, collections), Microservices (SpringCloud Alibaba)
+- **Secondary:** Python (data analysis, automation), C++ (basic), MySQL (SQL, slow query analysis, index optimization)
+- **Domain:** Backend Web Development, E-commerce Systems, System Integration
+- **Software:** Redis, Git, Docker, Linux, MinIO, IntelliJ IDEA, Postman; AI tools: Codex, Trae
 
 ### Certifications
 <!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- (None yet - building portfolio through projects)
 
 ### Publications
 <!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- (None yet - early career)
 
 ### Awards
 <!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- (None yet - early career)
 
-### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+### Behavioral Profile (Self-Assessment)
+- **Self-directed learner** - Actively learns new technologies through online courses, blogs; independently adopted SpringCloud, Redis, MinIO in projects
+- **Execution-focused** - Delivered full e-commerce backend in 3 months in 2-person team, owning 60%+ of backend modules
+- **Problem solver** - Resolved 5+ critical bugs via transactions + optimistic locking; achieved 100% data consistency
+- **Detail-oriented** - Maintained 100% API documentation coverage; completed verification on all core modules
+- **Strengths:** Full-stack backend delivery from DB design to API development to optimization; strong CS fundamentals
+- **Growth areas:** Limited formal work experience beyond internship; building English professional communication
+- **Thrives in:** Collaborative teams with clear goals; end-to-end ownership of backend modules; environments encouraging new tech adoption
 
 ### What Excites You
 <!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Building practical, user-facing backend systems that solve real problems
+- Continuously learning and applying new technologies (microservices, cloud-native, AI-assisted)
+- Growing into a role where I contribute to system architecture decisions
 
 ### Target Sectors
 <!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- E-commerce / Internet Platforms: Companies building online transaction systems
+- Enterprise Software and System Integration: IT departments and enterprise clients
 
 ### Deal-breakers
 <!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Roles without real development work (pure maintenance with no coding)
+- Toxic or micromanaged environments that stifle learning and initiative
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

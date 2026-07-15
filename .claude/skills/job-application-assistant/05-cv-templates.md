@@ -43,18 +43,18 @@ Expected output: `Output written on main_<company>.pdf (2 pages, ...)`. Any page
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={[YOUR_NAME] - CV},
+    pdftitle={Zhewei Liu - CV},
     pdfpagemode=FullScreen,
 }
 \usepackage[scale=0.77]{geometry}
 \usepackage{import}
 
 % Personal data
-\name{[FIRST_NAME]}{[LAST_NAME]}
-\address{[YOUR_ADDRESS]}{}{}
-\phone[mobile]{[YOUR_PHONE]}
-\email{[YOUR_EMAIL]}
-\extrainfo{\href{[YOUR_LINKEDIN_URL]}{LinkedIn}, \href{[YOUR_GITHUB_URL]}{GitHub}}
+\name{Zhewei}{Liu}
+\address{Baotou, Inner Mongolia, China}{}{}
+\phone[mobile]{+86 13947205847}
+\email{2057908981@qq.com}
+\extrainfo{\href{#}{LinkedIn}, \href{#}{GitHub}}
 
 \begin{document}
 \makecvtitle
@@ -110,11 +110,11 @@ Write 5-7 lines that function as an "elevator pitch": a concise, compelling intr
 **Create 2-3 profile statement templates for your main role types:**
 
 <!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Java Backend Developer roles:**
+> CS graduate with strong fundamentals. Built a microservice e-commerce backend (SpringCloud + SpringBoot + Redis) in 3 months, owning 60%+ of modules. Self-directed learner who adopted microservices and caching for production use.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Entry-Level Software Engineer roles:**
+> CS undergraduate graduating June 2027 with backend dev experience. Built full e-commerce system with SpringBoot microservices, contributed to enterprise IT projects during internship. Proficient in Java, MySQL, Redis, Git, Docker.
 
 ### Core Competencies / Skills Section (Best Practice)
 Reorder and emphasize based on the role. Use bold category labels.

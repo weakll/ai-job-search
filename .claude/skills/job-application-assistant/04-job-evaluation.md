@@ -20,9 +20,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Java, SpringBoot, SpringCloud Alibaba, MyBatis-Plus, MySQL, Redis, RESTful API
+**Moderate match areas:** Python, C++, Docker, Git, Linux, MinIO, AI-assisted development
+**Weak match areas:** K8s, CI/CD, message queues, frontend frameworks, production load balancing
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -34,9 +34,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** E-commerce backend systems, system integration
+**Moderate:** Enterprise IT support, hardware/network deployment
+**Entry-level:** Senior dev, architect, team lead, DevOps
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -67,19 +67,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Grow into backend developer building production systems
+- Deepen microservices and cloud-native expertise
+- Develop capabilities to contribute to system architecture
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
+- Tasks that energize: Designing APIs and DB schemas, query optimization, learning frameworks
+- Tasks that drain: Repetitive fixes with no learning, pure maintenance, unclear requirements
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Recent graduate looking for stable entry-level position
+- **Flexibility**: Available full-time from June 2027
+- **Professional development**: Mentorship, hands-on coding, clear career progression
 
 ### 6. Salary Benchmark (Optional)
 
