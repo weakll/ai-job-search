@@ -16,7 +16,7 @@ framework_version: 1.0.0
 - **GitHub:** (not provided yet)
 - **Languages:** Chinese (Native), English (Professional working)
 - **Status:** Student (graduating June 2027)
-- **Constraints:** Open to relocation, interested in remote
+- **Constraints:** Open to relocation to Beijing, Shanghai, or Hangzhou; also interested in remote
 
 ## Education
 

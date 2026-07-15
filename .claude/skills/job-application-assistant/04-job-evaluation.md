@@ -78,7 +78,7 @@ Does this role advance career goals and contain tasks that energize?
 
 **Life situation alignment:** Consider personal constraints:
 - **Security**: Recent graduate looking for stable entry-level position
-- **Flexibility**: Available full-time from June 2027
+- **Flexibility**: Available full-time from June 2027; targeting Beijing, Shanghai, or Hangzhou
 - **Professional development**: Mentorship, hands-on coding, clear career progression
 
 ### 6. Salary Benchmark (Optional)

@@ -17,7 +17,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ### Identity
 - **Name:** Zhewei Liu (刘哲玮)
-- **Location:** Baotou, Inner Mongolia, China (willing to relocate for opportunities, open to remote)
+- **Location:** Baotou, Inner Mongolia, China (seeking opportunities in Beijing, Shanghai, Hangzhou; open to remote)
 - **Languages:** Chinese (Native), English (Professional working proficiency)
 - **Status:** Student (BSc candidate, graduating June 2027)
 - **LinkedIn headline:** "CS Undergraduate | Java Backend Developer | Spring Boot Microservices"

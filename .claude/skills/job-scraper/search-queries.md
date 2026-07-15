@@ -29,8 +29,8 @@ These match your strongest and most desired career direction.
 
 ```
 site:zhipin.com "Javaå¼å" Baotou
-site:zhipin.com "SpringBoot" Baotou
-site:linkedin.com/jobs "Javaå¼å" China
+site:zhipin.com SpringBoot 北京 上海 杭州
+site:linkedin.com/jobs "Java Developer" China
 ```
 
 ### Priority 2: E-commerce / Backend Systems
@@ -48,8 +48,8 @@ site:linkedin.com/jobs åç«¯å¼å Baotou China
 Adjacent roles you could pivot into.
 
 ```
-site:zhipin.com "ç³»ç»éæå·¥ç¨å¸" SpringBoot Baotou
-site:zhipin.com "è½¯ä»¶å·¥ç¨å¸" SpringBoot Baotou
+site:zhipin.com SpringBoot 北京 上海 杭州
+site:zhipin.com SpringBoot 北京 上海 杭州
 ```
 
 ### Priority 4: Broader Technical / Consulting
@@ -57,8 +57,8 @@ site:zhipin.com "è½¯ä»¶å·¥ç¨å¸" SpringBoot Baotou
 Wider net for general technical roles.
 
 ```
-site:zhipin.com SpringBoot developer Baotou
-site:linkedin.com/jobs "SpringBoot developer" Baotou
+site:zhipin.com SpringBoot developer 北京 上海 杭州
+site:linkedin.com/jobs "SpringBoot developer" China
 site:zhipin.com "technical consultant" çµå Baotou
 ```
 
